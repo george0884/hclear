@@ -57,7 +57,10 @@ wget -N https://raw.githubusercontent.com/huezo/hclear/master/path.sh
 hclear
 
 ```
+Monocomando: Este comando hara todo de una vez.
 
+```git clone https://github.com/huezo/hclear.git && cd hclear/ && sudo chmod +x path.sh && sudo ./path.sh && cd .. && hclear
+```
 
 
 [path]:https://raw.githubusercontent.com/huezo/hclear/master/path1.png
